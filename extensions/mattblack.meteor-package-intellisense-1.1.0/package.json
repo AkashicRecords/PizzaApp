@@ -1,0 +1,47 @@
+{
+	"name": "meteor-package-intellisense",
+	"displayName": "Meteor Package IntelliSense",
+	"description": "IntelliSense for local meteor packages. Teaches VS Code where your 'meteor/package-name' imports are located.",
+	"repository": {
+		"url": "https://github.com/mattblackdev/meteor-package-intellisense.git"
+	},
+	"version": "1.1.0",
+	"publisher": "mattblack",
+	"engines": {
+		"vscode": "^1.25.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:extension.meteorPackageIntelliSense"
+	],
+	"main": "./extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.meteorPackageIntelliSense",
+				"title": "Meteor Package IntelliSense"
+			}
+		]
+	},
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"typescript": "^2.6.1",
+		"vscode": "^1.1.6",
+		"eslint": "^4.11.0",
+		"@types/node": "^7.0.43",
+		"@types/mocha": "^2.2.42"
+	},
+	"dependencies": {
+		"deepmerge": "^2.1.1"
+	},
+	"__metadata": {
+		"id": "d9d7454c-e7c6-46f9-baef-59c282f3546b",
+		"publisherId": "cd0bd0db-45f8-4da6-9257-f4821fbd6426",
+		"publisherDisplayName": "Matt Black"
+	}
+}

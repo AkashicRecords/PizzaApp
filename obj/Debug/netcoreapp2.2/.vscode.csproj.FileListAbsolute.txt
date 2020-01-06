@@ -1,0 +1,9 @@
+/Users/samelder/.vscode/obj/Debug/netcoreapp2.2/.vscode.csprojAssemblyReference.cache
+/Users/samelder/.vscode/obj/Debug/netcoreapp2.2/.vscode.csproj.CoreCompileInputs.cache
+/Users/samelder/.vscode/bin/Debug/netcoreapp2.2/.vscode.deps.json
+/Users/samelder/.vscode/bin/Debug/netcoreapp2.2/.vscode.runtimeconfig.json
+/Users/samelder/.vscode/bin/Debug/netcoreapp2.2/.vscode.runtimeconfig.dev.json
+/Users/samelder/.vscode/bin/Debug/netcoreapp2.2/.vscode.dll
+/Users/samelder/.vscode/bin/Debug/netcoreapp2.2/.vscode.pdb
+/Users/samelder/.vscode/obj/Debug/netcoreapp2.2/.vscode.dll
+/Users/samelder/.vscode/obj/Debug/netcoreapp2.2/.vscode.pdb

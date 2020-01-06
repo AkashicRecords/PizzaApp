@@ -1,0 +1,4 @@
+/Users/samelder/.vscode/obj/Release/netcoreapp2.2/.vscode.csprojAssemblyReference.cache
+/Users/samelder/.vscode/obj/Release/netcoreapp2.2/.vscode.csproj.CoreCompileInputs.cache
+/Users/samelder/.vscode/obj/Release/netcoreapp2.2/.vscode.AssemblyInfoInputs.cache
+/Users/samelder/.vscode/obj/Release/netcoreapp2.2/.vscode.AssemblyInfo.cs
